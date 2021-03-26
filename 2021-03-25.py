@@ -49,7 +49,7 @@ def solution(numbers, hand):
                 cr = str(curv)
     return answer
 
-  if __name__ == '__main__':
+if __name__ == '__main__':
     answer = solution([1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5], 'right')
     print(answer)
     answer = solution([7, 0, 8, 2, 8, 3, 1, 5, 7, 6, 2], 'left')
