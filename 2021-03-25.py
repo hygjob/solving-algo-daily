@@ -1,5 +1,5 @@
 # 키패드 누르기
-# 2021.3.26
+# 2021.3.25
 # https://programmers.co.kr/learn/courses/30/lessons/67256
     
 pads = {'1': (1,1), '2':(1,2), '3':(1,3),
